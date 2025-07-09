@@ -94,9 +94,11 @@ Jest, Cypress, Enzyme, Lighthouse
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Vasu_kumar3)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Rajuaamanchi)](https://x.com/Rajuaamanchi)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=@Vasukumar3&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=Raju-Aamanchi-124&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
