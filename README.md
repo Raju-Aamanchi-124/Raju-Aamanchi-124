@@ -97,6 +97,10 @@ Jest, Cypress, Enzyme, Lighthouse
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raju-Aamanchi-124" alt="Raju-Aamanchi-124" />
 </p>
 
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Raju-Aamanchi-124&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+  alt="Raju-Aamanchi-124 streak" 
+/>
 
 
 ## 🐦 Latest Tweet
