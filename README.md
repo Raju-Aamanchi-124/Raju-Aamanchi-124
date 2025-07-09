@@ -11,7 +11,7 @@
 * 🗃️ Hands-on experience with databases like **MongoDB, PostgreSQL, MySQL**, and **Firebase Realtime DB**.
 * 🧪 Familiar with **automated testing tools** like **Jest**, **Cypress**, and **Enzyme**, and debugging with Chrome DevTools.
 * 👨‍💻 Passionate about building scalable, secure, and maintainable software solutions.
-* 📬 How to reach me: [raju.a@protectmymails.com](mailto:raju.a@protectmymails.com)
+* 📬 How to reach me: [rajuaamanchi24@gmail.com](mailto:rajuaamanchi24@gmail.com)
 
 ## 🌐 Socials:
 
