@@ -19,7 +19,7 @@
   <img align="left" alt="Raju's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/raju_aamanchi/)/"><img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/raju_aamanchi/)/"><img align="left" alt="Raju's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
 
 <a href="https://x.com/Rajuaamanchi">
   <img align="left" alt="Raju's X Profile" width="100px" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
