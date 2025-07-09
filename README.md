@@ -1,14 +1,17 @@
 # Hey Everyone! I'm Raju Aamanchi(https://github.com/Raju-Aamanchi-124) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
-# 💫 About Me:
-- 🔭 I’m currently working on ... a freelance Python Trainer at Pythonlife <br>- 🌱 I’m currently learning ... Typescript. <br>- 👯  I’ve successfully trained 1000+ students in Python programming, covering everything from basics to advanced concepts. I specialize in providing study materials, hands-on tasks, and interview preparation resources to ensure effective and practical learning..<br>- 💬 Ask me about ...Python programming: Basics to advanced concepts.
-Tips and strategies for mastering Python.
-Practical approaches to task-based learning in programming.
-How to effectively prepare for Python programming interviews.
-My experience in freelancing and training over 1000+ students..<br>- 📫 How to reach me: ... rajuaamanchi24@gmail.com
+## 💫 About Me:
 
-
+* 💼 I’m currently working as a **Software Engineer at Charles Schwab**, building high-performance backend services and APIs for financial trading platforms.
+* 🧠 I specialize in **MERN stack** development and Java-based frameworks like **Spring Boot**, **Spring MVC**, and **Hibernate**.
+* 🔧 I’ve built and integrated **secure RESTful and GraphQL APIs**, implemented CI/CD pipelines using **GitHub Actions**, and managed containerized applications using **Docker** and **Kubernetes**.
+* ☁️ Experienced in deploying cloud-native apps on **AWS (EC2, Lambda, S3)** and **GCP (Firebase, Cloud Functions)**.
+* 📊 Skilled in designing **responsive dashboards** and **user interfaces** using React.js, Next.js, Angular, Redux, and Tailwind CSS.
+* 🗃️ Hands-on experience with databases like **MongoDB, PostgreSQL, MySQL**, and **Firebase Realtime DB**.
+* 🧪 Familiar with **automated testing tools** like **Jest**, **Cypress**, and **Enzyme**, and debugging with Chrome DevTools.
+* 👨‍💻 Passionate about building scalable, secure, and maintainable software solutions.
+* 📬 How to reach me: [raju.a@protectmymails.com](mailto:raju.a@protectmymails.com)
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/raju-a-25a54abb/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
