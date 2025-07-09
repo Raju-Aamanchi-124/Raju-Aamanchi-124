@@ -87,10 +87,16 @@ Jest, Cypress, Enzyme, Lighthouse
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 
-# ⚡ Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasukumar3&show_icons=true&locale=en" alt="Vasukumar3" /></p>
+# ⚡ GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasukumar3&" alt="Vasukumar3" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raju-Aamanchi-124&show_icons=true&locale=en" alt="Raju-Aamanchi-124" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raju-Aamanchi-124" alt="Raju-Aamanchi-124" />
+</p>
+
 
 
 ## 🐦 Latest Tweet
