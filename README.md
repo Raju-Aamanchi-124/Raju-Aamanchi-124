@@ -94,13 +94,3 @@ Jest, Cypress, Enzyme, Lighthouse
   alt="Raju-Aamanchi-124 streak" 
 />
 
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Rajuaamanchi)](https://x.com/Rajuaamanchi)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Raju-Aamanchi-124&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
