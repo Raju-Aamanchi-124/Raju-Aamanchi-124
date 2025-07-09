@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 
-* 💼 I’m currently working as a **Software Engineer at Charles Schwab**, building high-performance backend services and APIs for financial trading platforms.
+* 💼 I’m currently working as a **Software Engineer at Charles Schwab**, building high-performance fronted, backend services and APIs for financial trading platforms.
 * 🧠 I specialize in **MERN stack** development and Java-based frameworks like **Spring Boot**, **Spring MVC**, and **Hibernate**.
 * 🔧 I’ve built and integrated **secure RESTful and GraphQL APIs**, implemented CI/CD pipelines using **GitHub Actions**, and managed containerized applications using **Docker** and **Kubernetes**.
 * ☁️ Experienced in deploying cloud-native apps on **AWS (EC2, Lambda, S3)** and **GCP (Firebase, Cloud Functions)**.
