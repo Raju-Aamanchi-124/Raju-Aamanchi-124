@@ -87,10 +87,10 @@ Jest, Cypress, Enzyme, Lighthouse
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 
-# ⚡ GitHub Stats
+//# ⚡ GitHub Stats
 
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=Raju-Aamanchi-124&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
   alt="Raju-Aamanchi-124 streak" 
 />
-
+//
